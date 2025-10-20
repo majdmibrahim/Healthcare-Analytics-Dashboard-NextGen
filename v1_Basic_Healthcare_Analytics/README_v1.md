@@ -21,14 +21,14 @@ This version establishes the **foundation** of the Healthcare Analytics Dashboar
 
 ## 📸 Dashboard Preview
 
-### Light Mode
-![Healthcare Dashboard Light Mode](./v1_Basic_Healthcare_Analytics/light-mode.jpg)
+**Light Mode**
+![Light Mode](./light-mode.JPG)
 
-### Dark Mode
-![Healthcare Dashboard Dark Mode](./v1_Basic_Healthcare_Analytics/dark-mode.jpg)
+**Dark Mode**
+![Dark Mode](./dark-mode.JPG)
 
-### Filtered View (with Slicers)
-![Healthcare Dashboard with Filters](./v1_Basic_Healthcare_Analytics/filtered-view.jpg)
+**Filtered View**
+![Filtered View](./filtered-view.JPG)
 
 ---
 
