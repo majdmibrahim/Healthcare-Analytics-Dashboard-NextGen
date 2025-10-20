@@ -24,13 +24,13 @@ Demonstrated how healthcare billing data can be communicated through clear, acti
 ---
 ## 📸 Dashboard Preview
 
-### Light Mode
-![Healthcare Dashboard v2 Light Mode](./v2_The_Pulse_Dashboard/light-mode.png)
+**Light Mode**
+![Light Mode](./light-mode.JPG)
 
-### Dark Mode
-![Healthcare Dashboard v2 Dark Mode](./v2_The_Pulse_Dashboard/dark-mode.png)
+**Dark Mode**
+![Dark Mode](./dark-mode.JPG)
 
 ---
 
 Developed by **Majd Ibrahim**  
-[LinkedIn Profile](https://www.linkedin.com/in/majdimibrahim)
+[LinkedIn Profile](https://www.linkedin.com/in/majd-ibrahim-6a02bb200/)
